@@ -1,5 +1,9 @@
 지하철 시뮬레이션 게임 [Mini Metro]를 Unity 2D로 모작한 게임입니다.
 
+## 유튜브 링크
+[![image](https://github.com/kare-pixie/mini_metro/assets/29856632/68b6c435-e078-4e75-ad7f-68a30dd3d6b8)
+](https://youtu.be/RYgO2esJfAM)
+
 ## 프로젝트 주요 환경
 유니티 버전 2020.3.36
 
